@@ -1,2 +1,2 @@
 # hello-hi
-my first repository on Github
+hello i love ☕,🍕and👯
