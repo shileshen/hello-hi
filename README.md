@@ -1,2 +1,2 @@
 # hello-hi
-hello i love:coffee,:pizza and :dance
+hello i love☕,🍕and👯
